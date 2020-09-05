@@ -1,0 +1,101 @@
+p {
+    color: purple;
+    font-size: 25px;
+}
+
+h1{
+    color: white;
+    font-size: 20px;
+    text-align: center;
+}
+
+#page_title {
+    text-shadow: 2px 2px 7px pink;
+    font-size: 50px;
+}
+
+h2 {
+    font-size: 30px;
+}
+
+.favorite_section {
+    background-color: MistyRose;
+    border: 2px white dotted;
+    margin: 10px;
+    padding: 15px;
+    text-align: center;
+}
+
+.section_header {
+    color: plum;
+    text-shadow: 2px 2px pink;
+}
+
+body {
+    background-color: plum;
+    font-family: Georgia, 'Times New Roman', Times, serif
+}
+
+li {
+    list-style-type: square;
+    padding: 5px;
+    margin: 5px;
+}
+
+a {
+    color: white;
+    text-shadow: 2px 2px 5px lightyellow;
+}
+
+ul {
+    background-color: plum;
+}
+
+#most_favorite {
+  background-color: aquamarine;
+ text-decoration: underline;
+}
+
+.second_favorite {
+    background-color: lightskyblue;
+}
+
+#favorite_movie_name {
+    background-color: lightblue;
+    text-shadow: 3px 2px white;
+}
+
+#favorite_artist_name {
+    background-color: beige;
+    text-shadow: 3px 2px pink;
+}
+
+.favorite_image {
+    max-width:45%;
+    height:auto;
+    border: 2px white solid;
+    margin: 10px;
+    border-radius: 25%;
+    
+    
+}
+
+table, tr, th, td {
+    border: 2px solid white;
+    border-collapse: collapse;
+    background-color: plum;
+    margin-left: auto;
+    margin-right: auto;
+    }
+    
+    th {
+        width: 100px;
+        background-color: thistle;
+        color: white;
+    }
+    
+    td {
+        text-align: center;
+        color: purple;
+    }
+    
